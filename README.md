@@ -5,8 +5,7 @@ A reusable, responsive navigation header template featuring modern dropdowns and
 ---
 
 ## 📌 Overview
-
-**Main-Header** provides a clean navigation bar layout optimized for cross-browser support. It can be easily dropped into any web project as a starter layout header.
+This project provides a clean, responsive navigation bar layout optimized for cross-browser support. It is designed to be easily integrated into any web application.
 
 ---
 
@@ -14,27 +13,28 @@ A reusable, responsive navigation header template featuring modern dropdowns and
 
 | Technology | Purpose |
 | ---------- | ------- |
-| HTML5      | Navigation elements |
-| CSS3       | Custom variables, transitions, and flexbox |
-| JavaScript | Mobile navigation toggle states |
+| HTML5      | Navigation lists and menu tags |
+| CSS3       | Custom CSS variables, transitions, and flexbox grids |
+| JavaScript | Mobile navigation drawer open/close triggers |
 
 ---
 
-## 🚀 Key Features
-
-* 📱 **Hamburger Menu:** Responsive mobile drawer menu.
-* 💧 **Dropdown Menus:** Smooth transition sub-menus for deep navigation.
-* ⚡ **Lightweight:** Pure CSS-driven animations for optimal loading times.
+## 🚀 Core Features
+* 📱 **Hamburger Drawer:** Responsive mobile drawer menu that opens on toggle.
+* 💧 **Dropdown Submenus:** Smooth transition sub-menus for deep site navigation.
+* ⚡ **Performance:** Pure CSS-driven animations for optimal rendering performance.
 
 ---
 
-## 👨&zwj;💻 Author
+## ⚙️ Setup & Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sayed-Herzallah/Main-Header.git
+   ```
+2. Open `index.html` in your browser.
 
+---
+
+## 👨‍💻 Author
 **Sayed Herzallah**  
-Frontend Developer
-
----
-
-## ⭐ Support
-
-If you find this project useful, consider giving it a star on GitHub.
+Full Stack Developer
